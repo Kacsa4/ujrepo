@@ -1,1 +1,1 @@
-# ujrepo
+print("project tartalma:"
